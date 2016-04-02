@@ -1,2 +1,3 @@
 test:
-	@ mocha --colors <test_name>.js
+	@ mocha --colors pells_equasion.js
+	@ mocha --colors pizza.js
