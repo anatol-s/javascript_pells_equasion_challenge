@@ -1,0 +1,5 @@
+/exercise_internal/*
+/startMake.sh
+/.flooignore
+/.idea/*
+/services.conf/*
